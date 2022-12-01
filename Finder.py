@@ -22,7 +22,7 @@
     For more see the file 'LICENSE' for copying permission.
 """
 
-__author__  = 'maldevel'
+__author__  = 'Re-Anony12-ops'
 
 
 import sys, os
